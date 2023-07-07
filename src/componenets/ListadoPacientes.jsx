@@ -28,7 +28,7 @@ function ListadoPacientes({pacientes,setPaciente, eliminarPaciente}) {
 
   ) : (
         <>
-            <h2 className="font-black text-3xl text-center"> No Hay pacientes</h2>
+            <h2 className="font-black text-3xl text-center"> No hay pacientes</h2>
             <p className="text-xl mt-4 mb-10 text-center">
               Comienza agregando pacientes {" "}
               <span className="text-lime-700 font-bold "> y apareceran en este lugar</span> 
